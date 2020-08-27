@@ -7,6 +7,7 @@
 
 > 主要开发: 后端api开发
 
-[![Buffge's github stats](https://github-readme-stats.vercel.app/api?username=buffge)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattn&hide=html)
+![Buffge's github stats](https://github-readme-stats.vercel.app/api?username=buffge)](https://github.com/anuraghazra/github-readme-stats)
 
 
