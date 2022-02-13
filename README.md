@@ -1,7 +1,7 @@
 ### 全栈开发者 👋
 
 > 技能
-  - go,php,c/c++,node
+  - go,php,c/c++,node,ts,react
   - linux,spider,network
 > 工作地点: 上海
 
